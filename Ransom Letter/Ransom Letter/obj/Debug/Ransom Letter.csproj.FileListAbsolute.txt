@@ -1,0 +1,9 @@
+C:\Users\Pinoot De Barbaa\Desktop\itvitae\Ransom Letter\Ransom Letter\Ransom Letter\bin\Debug\Ransom Letter.exe.config
+C:\Users\Pinoot De Barbaa\Desktop\itvitae\Ransom Letter\Ransom Letter\Ransom Letter\obj\Debug\Ransom Letter.csprojResolveAssemblyReference.cache
+C:\Users\Pinoot De Barbaa\Desktop\itvitae\Ransom Letter\Ransom Letter\Ransom Letter\obj\Debug\Ransom_Letter.Form1.resources
+C:\Users\Pinoot De Barbaa\Desktop\itvitae\Ransom Letter\Ransom Letter\Ransom Letter\obj\Debug\Ransom_Letter.Properties.Resources.resources
+C:\Users\Pinoot De Barbaa\Desktop\itvitae\Ransom Letter\Ransom Letter\Ransom Letter\obj\Debug\Ransom Letter.csproj.GenerateResource.Cache
+C:\Users\Pinoot De Barbaa\Desktop\itvitae\Ransom Letter\Ransom Letter\Ransom Letter\bin\Debug\Ransom Letter.exe
+C:\Users\Pinoot De Barbaa\Desktop\itvitae\Ransom Letter\Ransom Letter\Ransom Letter\bin\Debug\Ransom Letter.pdb
+C:\Users\Pinoot De Barbaa\Desktop\itvitae\Ransom Letter\Ransom Letter\Ransom Letter\obj\Debug\Ransom Letter.exe
+C:\Users\Pinoot De Barbaa\Desktop\itvitae\Ransom Letter\Ransom Letter\Ransom Letter\obj\Debug\Ransom Letter.pdb
